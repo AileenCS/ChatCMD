@@ -1,0 +1,65 @@
+{
+    "personajes": [
+      {
+        "nombre": "Bob Esponja",
+        "especie": "Esponja de mar",
+        "ocupacion": "Cocinero en el Crustáceo Cascarudo",
+        "caracteristicas": {
+          "personalidad": "Optimista, enérgico, amable",
+          "color": "Amarillo",
+          "forma": "Cuadrada"
+        }
+      },
+      {
+        "nombre": "Patricio Estrella",
+        "especie": "Estrella de mar",
+        "ocupacion": "Desempleado",
+        "caracteristicas": {
+          "personalidad": "Tonto, leal, divertido",
+          "color": "Rosa",
+          "forma": "Estrella"
+        }
+      },
+      {
+        "nombre": "Calamardo Tentáculos",
+        "especie": "Octopus",
+        "ocupacion": "Cajero en el Crustáceo Cascarudo",
+        "caracteristicas": {
+          "personalidad": "Sarcastico, pesimista, artístico",
+          "color": "Verde claro",
+          "forma": "Tentáculos"
+        }
+      },
+      {
+        "nombre": "Don Cangrejo",
+        "especie": "Cangrejo",
+        "ocupacion": "Dueño del Crustáceo Cascarudo",
+        "caracteristicas": {
+          "personalidad": "Codicioso, trabajador, protector",
+          "color": "Rojo",
+          "forma": "Cangrejo"
+        }
+      },
+      {
+        "nombre": "Ariel",
+        "especie": "Gato",
+        "ocupacion": "Mascota de Bob Esponja",
+        "caracteristicas": {
+          "personalidad": "Juguetón, curioso",
+          "color": "Negro",
+          "forma": "Gato"
+        }
+      },
+      {
+        "nombre": "Plankton",
+        "especie": "Plankton",
+        "ocupacion": "Dueño de la Chum Bucket",
+        "caracteristicas": {
+          "personalidad": "Astuto, malvado, ambicioso",
+          "color": "Verde",
+          "forma": "Plankton"
+        }
+      }
+    ]
+  }
+  
