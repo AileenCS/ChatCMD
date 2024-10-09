@@ -45,7 +45,4 @@ Una vez dentro del servidor, el cliente puede enviar los siguientes comandos:
 lsFiles: Muestra una lista de los archivos disponibles en el servidor.
 get <nombre_de_archivo>: Descarga un archivo desde el servidor. El archivo descargado se guardará en una carpeta llamada download en el cliente.
 
-
-![Texto alternativo](ruta/de/la/imagen)
-
 ![image](https://github.com/user-attachments/assets/750eb4aa-8c2b-46df-8c31-07363daef912)
